@@ -23,7 +23,7 @@ This project presents an interactive and analytical Power BI dashboard for a cal
 [[Call Centre dataset](Call Centre dataset.csv)](https://github.com/Seetal-2003/Call-Centre-Dashboard-Analysis---Power-BI-Project/raw/refs/heads/main/Call%20Centre%20dataset.csv)
 ---
 
-## ❓ Key Questions Answered
+## ❓ Key Questions Answered:
 1. What is the total number of calls?
 2. What is the average call duration?
 3. What percentage of calls meet the SLA response time?
@@ -35,7 +35,7 @@ This project presents an interactive and analytical Power BI dashboard for a cal
 
 ---
 
-## 🛠️ Tools & Techniques Used
+## 🛠️ Tools & Techniques Used:
 - **Power BI:** Visualization and dashboard development.
 - **Power Query:** Data cleaning, transformation, and model shaping.
 - **DAX Measures:** Custom calculations for KPIs (e.g., total calls, average duration, SLA %).
@@ -45,7 +45,7 @@ This project presents an interactive and analytical Power BI dashboard for a cal
 
 ---
 
-## 🔁 Process
+## 🔁 Process:
 1. **Data Loading:**
    - Loaded `Call Centre dataset.csv` into Power BI.
 2. **Data Cleaning & Transformation:**
@@ -69,16 +69,16 @@ This project presents an interactive and analytical Power BI dashboard for a cal
 
 ---
 
-## 🖼️ Dashboard Screenshots
-### 📌 Home Dashboard
+## 🖼️ Dashboard Screenshots:
+### 📌 Home Dashboard:
 ![Call Centre Dashboard - Home](Call%20Centre%20Dashboard_Home.jpg)
 
-### 📌 Grid Dashboard
+### 📌 Grid Dashboard:
 ![Call Centre Dashboard - Grid](Call%20Centre%20Dashboard_Grid.jpg)
 
 ---
 
-## 📈 Dashboard Insights
+## 📈 Dashboard Insights:
 - ✅ **Total Calls:** 32.94K
 - ⏱️ **Total Call Duration:** 824.22K minutes (13.74K hours)
 - 📞 **Average Call Duration:** 25.02 minutes
@@ -92,7 +92,7 @@ This project presents an interactive and analytical Power BI dashboard for a cal
 
 ---
 
-## ✅ Conclusion
+## ✅ Conclusion:
 This Power BI dashboard enables in-depth monitoring of call centre operations. It identifies:
 - Inefficiencies in SLA response and customer sentiment.
 - Operational patterns across channels, cities, and time.
@@ -102,13 +102,13 @@ By visualizing KPIs and trends interactively, this dashboard empowers stakeholde
 
 ---
 
-## 📂 Files Included
+## 📂 Files Included:
 - `Call Centre dataset.csv` – Raw dataset
 - `Call Centre Dashboard_Home.jpg` – Home dashboard image
 - `Call Centre Dashboard_Grid.jpg` – Grid dashboard image
 - `Call Centre Dashboard.pbix` – Power BI report file
 
-📌 **[Download PBIX Dashboard](#)**  
+📌 **[Download PBIX Dashboard](#)**  :
 [[Call Centre Dashboard](Call Centre Dashboard.pbix)](https://github.com/Seetal-2003/Call-Centre-Dashboard-Analysis---Power-BI-Project/raw/refs/heads/main/Call%20Centre%20Dashboard.pbix)
 ---
 
