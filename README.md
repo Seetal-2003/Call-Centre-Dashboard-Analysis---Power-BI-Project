@@ -19,8 +19,8 @@ This project presents an interactive and analytical Power BI dashboard for a cal
 - **Format:** CSV
 - **Data Fields:** Id, Call Timestamp, Call-Centre, Customer Name, Channel, State, City, Reason, Call Duration (mins), Sentiment, SLA Type, etc.
 
-📂 **[Dataset Download Link]:
-[Call Centre dataset](Call Centre dataset.csv)
+📂 [Dataset Download Link]:
+[[Call Centre dataset](Call Centre dataset.csv)](https://github.com/Seetal-2003/Call-Centre-Dashboard-Analysis---Power-BI-Project/raw/refs/heads/main/Call%20Centre%20dataset.csv)
 ---
 
 ## ❓ Key Questions Answered
