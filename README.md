@@ -109,7 +109,7 @@ By visualizing KPIs and trends interactively, this dashboard empowers stakeholde
 - `Call Centre Dashboard.pbix` – Power BI report file
 
 📌 **[Download PBIX Dashboard](#)**  
-[Call Centre Dashboard](Call Centre Dashboard.pbix)
+[[Call Centre Dashboard](Call Centre Dashboard.pbix)](https://github.com/Seetal-2003/Call-Centre-Dashboard-Analysis---Power-BI-Project/raw/refs/heads/main/Call%20Centre%20Dashboard.pbix)
 ---
 
 
