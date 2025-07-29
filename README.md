@@ -1,4 +1,4 @@
-# 📞 Call Centre Dashboard Analysis - Power BI Project
+# 📞  Customer Service Performance Dashboard  (Power BI)
 
 ## 📊 Overview:
 This project presents an interactive and analytical Power BI dashboard for a call centre. It captures vital metrics like total call volume, call durations, SLA compliance, sentiment distribution, and channel performance. The dashboard is split into two sections — **Home** and **Grid** — allowing high-level KPI tracking and detailed record inspection.
